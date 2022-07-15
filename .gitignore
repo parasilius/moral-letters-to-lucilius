@@ -1,3 +1,4 @@
 translations/*.aux
 translations/*.log
 translations/*.synctex.gz
+translations/*.pdf
